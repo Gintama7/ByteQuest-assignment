@@ -4,12 +4,12 @@ This is a single-page Nextjs application which fetches data from an API and disp
 https://bytequest-assignment-tann-trim.netlify.app/
 
 ## Highlights
--> Use of Axios for API fetching.
--> Use of Taiwind for responsive design
--> Use of React-icons for the icons
--> Inline styling implemented in SVG code for the hover effect on SVG elements
--> The font used is Encode_sans from Google Fonts
--> Deployed on Netlify
+ Use of Axios for API fetching.
+- Use of Taiwind for responsive design
+- Use of React-icons for the icons
+- Inline styling implemented in SVG code for the hover effect on SVG elements
+- The font used is Encode_sans from Google Fonts
+- Deployed on Netlify
 
 ## Getting Started
 
